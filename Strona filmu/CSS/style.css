@@ -1,0 +1,80 @@
+body {
+    background-color: grey;
+}
+h2 {
+    color: #0D5A5A;
+    font-family: cursive;
+}
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+th, td {
+    padding: 10px;
+}
+.center{
+    text-align:center;
+}
+h3 {
+    text-align: center;
+    text-shadow: 1px 1px #111111;
+}
+dl > dd {
+    color:purple;
+    font-family: cursive;
+}
+.zdj{
+    width: 200px;
+    height: 300px;
+}
+.skrót{
+    font-family: 'Courier New';
+}
+.fabula {
+    line-height: 1.6em;
+}
+h1 {
+    font-size: 30px;
+}
+a:hover {
+    color: deeppink;
+    text-decoration: none;
+}
+a:visited {
+    color: yellow;
+}
+a:link {
+    color: violet;
+}
+.ty {
+    text-transform: uppercase;
+}
+th {
+    color: red;
+}
+a[href*="youtu.be"]{
+    font-weight: bold;
+}
+    th.T, td.T {
+        border: 1px solid black;
+        border-collapse: collapse;
+    }
+    th, td {
+        padding: 10px;
+    }
+
+.tabelaA {
+    border-top-style: dotted;
+    border-bottom-style: dotted;
+    border-left-style: dotted;
+    border-right-style: dotted;
+}
+.s {
+    text-align: center;
+}
+.kropka {
+    border-top-style: dotted;
+    border-bottom-style: dotted;
+    border-left-style: dotted;
+    border-right-style: dotted;
+}
