@@ -1,8 +1,8 @@
-body {
-    background-color: white;
+body {                                              /* komentarz xd */
+    background-color: rgba(255, 255, 255, 0.651);
 }
 h2 {
-    color: #0D5A5A;
+    color: #6320af;
     font-family: cursive;
 }
 table, th, td {
@@ -24,10 +24,9 @@ dl > dd {
     font-family: cursive;
 }
 .zdj{
-    width: 200px;
-    height: 300px;
+    width: 330px;
+    height: 320px;
 }
-
 .skrót{
     font-family: 'Courier New';
 }
@@ -78,4 +77,31 @@ a[href*="youtu.be"]{
     border-bottom-style: dotted;
     border-left-style: dotted;
     border-right-style: dotted;
+}
+.baner{
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    max-width: 100%;
+    height: auto;
+    background-color: cover;
+}
+#Film {
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#Film a{
+    color: maroon !important;
+}
+.L td[rowspan="3"]{
+    background-color: cyan;
+}
+dt.intro::first-letter{
+    font-weight: bold;
+    font-style: italic;
+}
+P {
+    text-indent: 20px;
+     background-color: beige;
+     font-family: 'Courier New';
 }
