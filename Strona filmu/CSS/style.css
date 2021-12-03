@@ -18,7 +18,7 @@ th, td {
 h3 {
     text-align: center;
     text-shadow: 1px 1px #111111;
-    margin-top: 60px;
+    margin-top: 6em;
 }
 dl > dd {
     color:purple;
@@ -116,10 +116,19 @@ p {
     overflow: auto;
     width: 1053px;
     margin:auto;
+    border-top-style: dotted;
+    border-bottom-style: dotted;
+    border-left-style: dotted;
+    border-right-style: dotted;
 }
 .Takmordo {
     margin:auto;
 }
 .wieksze {
     font-size: 1.4em;
+}
+.list > li {
+    display: inline-block;
+    text-align: center;
+    margin-right: 10px;
 }
