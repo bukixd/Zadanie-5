@@ -132,3 +132,10 @@ p {
     text-align: center;
     margin-right: 10px;
 }
+.tlo {
+    margin-left: auto;
+    margin-right: auto;
+    width: 1050px;
+    border:60px solid black;
+    border-image: url('../zdj/frame.png') 120 120 120 120 stretch;
+}
