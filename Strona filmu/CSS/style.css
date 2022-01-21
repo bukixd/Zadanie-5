@@ -139,3 +139,21 @@ p {
     border:60px solid black;
     border-image: url('../zdj/frame.png') 120 120 120 120 stretch;
 }
+.kolor {
+    background-color: #6320af;
+}
+.kolor1 {
+    background-color: cornflowerblue;
+}
+ul.staryraz {
+    list-style-image:url(../png/man-silhouette.png);
+}
+li.starydwa {
+    margin: 10px 0px 0px 0px;
+}
+a {
+    cursor: move;
+}
+.mamale {
+    list-style-image:url(../png/film.png);
+}
