@@ -157,3 +157,7 @@ a {
 .mamale {
     list-style-image:url(../png/film.png);
 }
+.tabelagl {
+    border-spacing: 20px 5px;
+    text-align: center;
+}
